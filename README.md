@@ -46,3 +46,4 @@
 ## Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+h
